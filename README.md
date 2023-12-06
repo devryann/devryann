@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ryan Soares 🖐️
 
-[![Blog](	https://img.shields.io/badge/RyanPortifolio-UP-green.svg)](http://www.google.com)
+[![Blog](https://img.shields.io/website?label=RyanPortifolio.com&style=for-the-badge&url=https://www.google.com)](http://www.google.com)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.google.com)
 
 ![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=devryann&show_icons=true&theme=dracula)
